@@ -1,4 +1,4 @@
-# WeatherForecast
+# TinDog
 
 A landing page prototype of a dating app, inspired by the popular dating app, Tinder. This project is built using the basics of HTML, CSS, and Bootstrap.
 
@@ -34,10 +34,7 @@ The project can be run locally by opening the index.html file in your web browse
 
 
 
-## Built With
-React - JavaScript library for building user interfaces
-TMDB API - Movie information and media content provider
-SASS - CSS extension language
+
 
 ## License
 This project is licensed under the MIT License.
